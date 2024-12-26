@@ -1,0 +1,11 @@
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\bin\Debug\net9.0\Hathor.Services.deps.json
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\bin\Debug\net9.0\Hathor.Services.dll
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\bin\Debug\net9.0\Hathor.Services.pdb
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\Hathor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\Hathor.Services.AssemblyInfoInputs.cache
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\Hathor.Services.AssemblyInfo.cs
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\Hathor.Services.csproj.CoreCompileInputs.cache
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\Hathor.Services.dll
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\refint\Hathor.Services.dll
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\Hathor.Services.pdb
+C:\Users\Emmer\source\repos\Hathor\Hathor.Services\obj\Debug\net9.0\ref\Hathor.Services.dll

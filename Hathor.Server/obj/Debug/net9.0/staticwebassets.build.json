@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OACcsNfH/Myg2mwAbiwQV3GkJWibJPxEPLSUSWQhXEE=",
+  "Source": "Hathor.Server",
+  "BasePath": "_content/Hathor.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

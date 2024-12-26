@@ -1,0 +1,11 @@
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\bin\Debug\net9.0\Hathor.DataAccess.deps.json
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\bin\Debug\net9.0\Hathor.DataAccess.dll
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\bin\Debug\net9.0\Hathor.DataAccess.pdb
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\Hathor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\Hathor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\Hathor.DataAccess.AssemblyInfo.cs
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\Hathor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\Hathor.DataAccess.dll
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\refint\Hathor.DataAccess.dll
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\Hathor.DataAccess.pdb
+C:\Users\Emmer\source\repos\Hathor\Hathor.DataAccess\obj\Debug\net9.0\ref\Hathor.DataAccess.dll

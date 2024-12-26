@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Hathor.Tests/1.0.0": {
+        "runtime": {
+          "Hathor.Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hathor.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
